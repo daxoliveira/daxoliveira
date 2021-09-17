@@ -6,7 +6,7 @@ and debugging full-stack applications built with <br>
 React.js in the front-end and <br>
 Node.js in the backend.
 
-### 🔭 I’m currently working on the #100DaysOfCode Challenge
+[### 🔭 I’m currently working on the #100DaysOfCode Challenge](https://github.com/daxoliveira/100-days-of-code/blob/master/README.md)
 
 <!-- 
 - 🌱 I’m currently learning ...
