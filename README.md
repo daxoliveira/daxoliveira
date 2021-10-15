@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Jr. Full-Stack Web Developer with <br>
+Full-Stack Web Developer with <br>
 experience in implementing, maintaining,<br>
 and debugging full-stack applications built with <br>
 React.js in the front-end and <br>
