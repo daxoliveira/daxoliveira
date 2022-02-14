@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Full-Stack Web Developer with <br>
+Frontend Web Developer with <br>
 experience in implementing, maintaining,<br>
-and debugging full-stack applications built with <br>
+and debugging applications built with <br>
 React.js in the front-end and <br>
 Node.js in the backend.
 
