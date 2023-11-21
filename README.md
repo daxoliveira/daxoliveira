@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Software Developer with <br>
+I'm Software Developer with <br>
 experience in implementing, maintaining,<br>
 and debugging applications built with <br>
 React.js in the front-end and <br>
